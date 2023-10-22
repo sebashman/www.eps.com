@@ -1,0 +1,104 @@
+.NEWS-box .NEWS-layer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    background: linear-gradient(rgba(0, 0, 0, .1), var(--main-color));
+    color: var(--white-color);
+}
+
+
+ </testimonial-content>
+
+
+</div>
+   <div class="news-box">
+    <img src="image/download (1).jpg" alt="">
+
+    <div class="news-layer"> </div>
+    <h4>Ethiopian Pharmaceuticals Supply Service-EPSS Addis Ababa Office.</h4>
+    <p>Ethiopian Pharmaceuticals Supply Service-EPSS Addis Ababa Office.. <br>
+    Phone=>011 276 3276 <br>
+    Gmail=>info@epsa.gov.et <br>
+    <h1>I supply !!</h1>
+    </p>
+    <a href="https://www.facebook.com/EPSAethiopia99/"><i class='bx bx-link-external' ></i></a>
+</div>   
+
+
+     <!--Hawassa hub branch-->    https://www.facebook.com/epsahawassa?hc_ref=ARTvJjSEbJLLeJk_y-ym5ewKugKE4wZKrV09DWossWavbsJx5MydBRt4zxdH-DVACCo&fref=nf&__xts__[0]=68.ARCfValD4jEJUDq6Xk6FIfVKKKseou2BYnrc8hcfB3YzOZ_apyeBcTlXvLY_fNSg5B7dblAKgMhRjJA3tWFspwJmdMc-0OfOyQhsgRlD2twCDYJv_OpcKhUgKqzYmHiJ33ss5Y1wRlByyhr5h8ih1BVNFR-bObNaN7RD9djGXYg0pSGSyMrbpbF3aAnsAVeHaYQreWc-_0YBrLlunvjxje1YI_i2NIritCGSFkUjy3YVuuThGTFEzxXYSl0eOaZz6OqArCQMFIJ4GTCss2z0JYFPKBz6OILH7Finm57sQQpdPvSXOvi-Xl4-Dnu-O_x1HA9r622iU0HDI_kph3D-Kws
+
+
+
+
+</div>
+<div class="news-box">
+    <img src="image/images.jpg" alt="">
+
+    <div class="news-layer"> </div>
+    <h4>Ethiopian Pharmaceuticals Supply Service-EPSS.Adama Branch</h4>
+    <p>Ethiopian Pharmaceuticals Supply Service-EPSS.Adama Branch <br>
+    Phone=>+251-930-303870 or => +251-901-724517 <br>
+    Gmail=> epsa.adama@gmail.com<br>
+    <h1>I supply !!</h1>
+    </p>
+    <a href="epsa.adama@gmail.com"><i class='bx bx-link-external' ></i></a>
+</div>
+
+
+<a class="btn btn-outline-primary btn-square" href=""><i class="box-icon name='instagram' type='logo'/box-icon>"></i></a>/*========== swiper ==========*/
+var swiper = new swiper(".mySwiper", {
+    slidersPerView: 1,
+    spaceBetween: 30,
+    loop: teue,
+    pagination: {
+        el: ".swiper-pagination",
+        clickabla: true,
+    },
+    navigator: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+});
+ <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-pagination"></div>
+        </div>
+
+<div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
+
+
+
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="" />
+              </div>
+
+
+
+              <!--swiperjs-->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+    <!-- custom js -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
